@@ -1,4 +1,4 @@
-A collection of my practice challenges - small UI components and features, built live in [CodeSandbox](https://codesandbox.io/)
+A collection of my practice challenges, built live in [CodeSandbox](https://codesandbox.io/)
 
 | Name | Tools | Challenge |
 |------|-------|----------|
